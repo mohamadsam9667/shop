@@ -126,7 +126,7 @@ function adderCart(item){
     newbtn.addEventListener('click',function(){
         
         cartRow.remove();
-
+        calculatorPriceCart()
         })
 
 
